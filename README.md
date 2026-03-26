@@ -10,3 +10,5 @@ There are a couple of great sources to check out if you want to make your own pa
 
 HackersCurator: https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao
 
+[![HackersCurator]([http://img.youtube.com/vi/6mRPtUmp7O0?si=0FgcIwVixXkkrYao/0.jpg](https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao))](http://www.youtube.com/watch?v=6mRPtUmp7O0?si=0FgcIwVixXkkrYao "pager")
+
