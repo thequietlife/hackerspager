@@ -1,1 +1,1 @@
-## making a replica hackers pager
+## making a replica Hackers pager
