@@ -1,6 +1,6 @@
 ## making a replica Hackers pager
 
-
+### Before
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/27bdf1cc207c031af4c9aba6210babbfe6e62d50/images/before.png"
