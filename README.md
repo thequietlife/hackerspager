@@ -2,7 +2,7 @@
 
 ### inspo
 
-Cereal Killer's fluro yellow pager was the inspo
+In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo
 
 <p align="center">
 <img
