@@ -1,6 +1,16 @@
 ## making a replica Hackers pager
 
-### Before
+### inspo
+
+Cereal Killer's fluro yellow pager was the inspo
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/024ef990a4c60c0a6df084021874cda1aeb381a7/images/aim.png"
+alt="before photo of the Motorola pager" width="400"/>
+
+
+### before
 
 <p align="center">
 <img
