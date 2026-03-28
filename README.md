@@ -17,13 +17,15 @@ alt="before photo of the Motorola pager" width="400"/>
 src="https://github.com/thequietlife/hackerspager/blob/27bdf1cc207c031af4c9aba6210babbfe6e62d50/images/before.png"
 alt="before photo of the Motorola pager" width="400"/>
 
-These are two great resources I used:
+There are two great resources that I referred to that cover the whole process (below). Really handy to see how to slide open the pager.
+
+I haven't done any spraypainting before and I found this the hardest bit. Trying to get a light, even coat. I ended up redoing the spraypaint as I couldn't get nice straight lines around the Motorola label.
 
 ⭐ [HackersCurator](https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao) <br>
 ⭐ [Famicoman](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
 
 My tips:
-- I found using masking tape to protect the Motorola label worked better. Vaseline worked better on the red light on the side. I couldn't pop the red light out or get the tape to stick on the light. The buttons come out easily
+- I found using masking tape to protect the Motorola label better than the vaseline. Vaseline worked better on the red light on the side. I couldn't pop the red light out or get the painters tape to stick on the light. 
 
 
 
