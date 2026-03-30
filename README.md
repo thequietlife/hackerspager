@@ -1,5 +1,3 @@
-## making a replica Hackers pager
-
 ### inspo
 
 In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo
