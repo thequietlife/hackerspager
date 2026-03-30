@@ -2,7 +2,7 @@
 
 ### Inspo
 
-In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo
+In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo.
 
 <p align="center">
 <img
@@ -10,6 +10,7 @@ src="https://github.com/thequietlife/hackerspager/blob/024ef990a4c60c0a6df084021
 alt="before photo of the Motorola pager" width="400"/>
 
 ### Two great resources that I referred to that cover the whole process. <br>
+
 ⭐ [HackersCurator](https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao) <br>
 ⭐ [Famicoman](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
 
