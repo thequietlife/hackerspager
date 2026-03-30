@@ -1,12 +1,11 @@
 ## Notes on making Cereal Killer's fluro pager 
 
-### Inspo
 
-In the 1995 movie [Hackers](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo.
+Making Cereal Killer's fluro yellow pager in the 1995 movie [Hackers](https://en.wikipedia.org/wiki/Hackers_film) was the goal. There is something super appealing with retro tech like pagers.
 
 <p align="center">
 <img
-src="https://github.com/thequietlife/hackerspager/blob/024ef990a4c60c0a6df084021874cda1aeb381a7/images/aim.png"
+  src="https://github.com/thequietlife/hackerspager/blob/024ef990a4c60c0a6df084021874cda1aeb381a7/images/aim.png"
 alt="before photo of the Motorola pager" width="400"/>
 
 Two great resources that I referred to that cover the whole process. <br>
