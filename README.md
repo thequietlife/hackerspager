@@ -43,8 +43,7 @@ Instead of using Vaseline to cover the Motorola label I used painters tape (mask
 src="https://github.com/thequietlife/hackerspager/blob/fd7dfaef5fdf0668b9ec68f16d38a599aa86752b/images/redo.jpeg"
 "alt="redo" width="400"/>
 
-My tips:
-- I found using masking tape to protect the Motorola label better than the vaseline. Vaseline worked better on the red light on the side. I couldn't pop the red light out or get the painters tape to stick on the light. 
+Vaseline worked better on the red light on the side. I couldn't pop the light out or get the painters tape to stick on the light. 
 
 
 
