@@ -21,8 +21,6 @@ Two great resources that I referred to that cover the whole process. <br>
 src="https://github.com/thequietlife/hackerspager/blob/27bdf1cc207c031af4c9aba6210babbfe6e62d50/images/before.png"
 alt="before photo of the Motorola pager" width="400"/>
 
-The screen has a big scratch. I searched around the house for some clear packaging. We seem to always have something that comes in plastic packaging. <br>
-
 I haven't done any spraypainting before and I found this the hardest bit. Trying to get a light, even coat. I couldn't get nice straight lines around the Motorola label.
 
 <p align="center">
@@ -48,6 +46,14 @@ src="https://github.com/thequietlife/hackerspager/blob/fd7dfaef5fdf0668b9ec68f16
 
 Vaseline worked better on the red light on the side. I couldn't pop the light out or get the painters tape to stick on the light. 
 
+### Screen
+The screen has a big scratch. I searched around the house for some clear packaging. We seem to always have something that comes in plastic packaging. The new screen looks heaps better and it was an easy, cheap fix.<br>
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/3e7de6518e6722b5f8821b8d48f5ad4adeb45cb3/images/new%20screen.jpeg"
+alt="new screen" width="400"/>
+  
 ### Next the wording for the screen
 
 Both HackersCurator and Famicoman had done the hard work here so I was able to try both of theirs.
