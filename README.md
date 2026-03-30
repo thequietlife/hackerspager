@@ -2,14 +2,14 @@
 
 ### Inspo
 
-In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo.
+In the 1995 movie [Hackers](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo.
 
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/024ef990a4c60c0a6df084021874cda1aeb381a7/images/aim.png"
 alt="before photo of the Motorola pager" width="400"/>
 
-### Two great resources that I referred to that cover the whole process. <br>
+Two great resources that I referred to that cover the whole process. <br>
 
 ⭐ [HackersCurator](https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao) <br>
 ⭐ [Famicoman](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
@@ -20,6 +20,8 @@ alt="before photo of the Motorola pager" width="400"/>
 <img
 src="https://github.com/thequietlife/hackerspager/blob/27bdf1cc207c031af4c9aba6210babbfe6e62d50/images/before.png"
 alt="before photo of the Motorola pager" width="400"/>
+
+The screen has a big scratch. I searched around the house for some clear packaging. We seem to always have something that comes in plastic packaging. <br>
 
 I haven't done any spraypainting before and I found this the hardest bit. Trying to get a light, even coat. I couldn't get nice straight lines around the Motorola label.
 
@@ -46,6 +48,10 @@ src="https://github.com/thequietlife/hackerspager/blob/fd7dfaef5fdf0668b9ec68f16
 
 Vaseline worked better on the red light on the side. I couldn't pop the light out or get the painters tape to stick on the light. 
 
+### Next the wording for the screen
 
+Both HackersCurator and Famicoman had done the hard work here so I was able to try both of theirs.
+
+WIP
 
 
