@@ -57,7 +57,7 @@ alt="new screen" width="400"/>
   
 ### Next the wording for the screen
 
-Both HackersCurator and Famicoman had done the hard work on the text so I was able to try both of theirs.
+Both HackersCurator and Famicoman have done the hard work on the text so I will able to try both of theirs.
 
 More next week.
 
