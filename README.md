@@ -1,6 +1,6 @@
-## notes on making Cereal Killer's fluro pager 
+## Notes on making Cereal Killer's fluro pager 
 
-### inspo
+### Inspo
 
 In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer's fluro yellow pager was the inspo
 
@@ -9,25 +9,39 @@ In the [Hackers movie](https://en.wikipedia.org/wiki/Hackers_film) Cereal Killer
 src="https://github.com/thequietlife/hackerspager/blob/024ef990a4c60c0a6df084021874cda1aeb381a7/images/aim.png"
 alt="before photo of the Motorola pager" width="400"/>
 
+### Two great resources that I referred to that cover the whole process. <br>
+⭐ [HackersCurator](https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao) <br>
+⭐ [Famicoman](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
 
-### before
+### Before
 
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/27bdf1cc207c031af4c9aba6210babbfe6e62d50/images/before.png"
 alt="before photo of the Motorola pager" width="400"/>
 
-There are two great resources that I referred to that cover the whole process. <br>
-⭐ [HackersCurator](https://youtu.be/6mRPtUmp7O0?si=0FgcIwVixXkkrYao) <br>
-⭐ [Famicoman](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
+I haven't done any spraypainting before and I found this the hardest bit. Trying to get a light, even coat. I couldn't get nice straight lines around the Motorola label.
 
-I haven't done any spraypainting before and I found this the hardest bit. Trying to get a light, even coat. I ended up redoing the spraypaint as I couldn't get nice straight lines around the Motorola label.
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/fd7dfaef5fdf0668b9ec68f16d38a599aa86752b/images/first%20go.jpeg"
+alt="spraypainting the pager a first time" width="400"/>
+
+I ended up redoing the spraypaint.
 
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/6eb47e0839faccc0bee5457420b852181d55c688/images/re%20do%20yellow.jpeg"
 alt="spraypainting the pager a second time" width="400"/>
 
+### After
+
+Instead of using Vaseline to cover the Motorola label I used painters tape (masking tape). I'm a bit happier with the end result. Also after sanding the edges to get the rugged feel like in the movie.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/fd7dfaef5fdf0668b9ec68f16d38a599aa86752b/images/redo.jpeg"
+"alt="redo" width="400"/>
 
 My tips:
 - I found using masking tape to protect the Motorola label better than the vaseline. Vaseline worked better on the red light on the side. I couldn't pop the red light out or get the painters tape to stick on the light. 
