@@ -59,7 +59,15 @@ alt="new screen" width="400"/>
 
 Both HackersCurator and Famicoman have done the hard work on the text so I will able to try both of theirs.
 
-More next week.
+It took a few goes to get the sizing right. Next trying out Water Slide Decal Papers.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/ce48bd9141d8ede0a754368d4d9f2595492bd77d/images/print%205.jpeg"
+alt="new screen" width="400"/>
+
+
+More next week. 🐕
 
 
 
