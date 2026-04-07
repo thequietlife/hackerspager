@@ -131,14 +131,14 @@ Third times a charm.
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/9285f2f7c48534eaf878aa7ef110d4306e5a7e50/images/final%20screen.jpeg"
-alt="screen with wording in the correct position" width="400"/>
+alt="screen with wording in the correct position" width="300"/>
 
 After letting the screen dry I was able to put it all together. I'm pretty happy with the end result.
 
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/9285f2f7c48534eaf878aa7ef110d4306e5a7e50/images/finished%20pager.jpeg"
-alt="finished Hackers movie pager" width="400"/>
+alt="finished Hackers movie pager" width="500"/>
 
 
 
