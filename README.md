@@ -126,4 +126,20 @@ When I put the pager back together the wording was not fully visible. So I had t
   src="https://github.com/thequietlife/hackerspager/blob/5c5ef2c5aea4cea2c519b111eeef25f8990ab24c/images/screen%20redo.jpeg"
   alt="paper template on the screen to check the wording" width="400"/>
 
+Third times a charm.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/9285f2f7c48534eaf878aa7ef110d4306e5a7e50/images/final%20screen.jpeg"
+alt="screen with wording in the correct position" width="400"/>
+
+After letting the screen dry I was able to put it all together. I'm pretty happy with the end result.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/hackerspager/blob/9285f2f7c48534eaf878aa7ef110d4306e5a7e50/images/finished%20pager.jpeg"
+alt="finished Hackers movie pager" width="400"/>
+
+
+
 
