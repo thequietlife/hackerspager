@@ -106,11 +106,11 @@ I know Isopropyl alcohol is great for cleaning off oily fingerprints but I am re
 
 Now back to the water slide. Ding ding round two.
 
+
 <p align="center">
 <img
-  scr="https://github.com/thequietlife/hackerspager/blob/ce408e7a632deaa824855b9b8e6120ad9ed562c5/images/boo.jpeg"
-  alt="tbc" width="400"/>
-
+  src="https://github.com/thequietlife/hackerspager/blob/ce408e7a632deaa824855b9b8e6120ad9ed562c5/images/boo.jpeg"
+alt="before photo of the Motorola pager" width="400"/>
 
 
 
