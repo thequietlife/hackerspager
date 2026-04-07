@@ -108,8 +108,28 @@ Now back to the water slide. Ding ding round two.
 
 <p align="center">
 <img
-  scr="https://github.com/thequietlife/hackerspager/blob/25fcd04bcd0e6bb77eabfd3f145d317947a9a60e/images/decal%20on%20screen%201.jpeg"
-  alt="clean screen" width="400"/>
+  scr=""
+  alt="tbc" width="400"/>
+
+<p align="center">
+<img
+  scr=""
+  alt="tbc" width="400"/>
+
+<p align="center">
+<img
+  scr=""
+  alt="tbc" width="400"/>
+
+<p align="center">
+<img
+  scr=""
+  alt="tbc" width="400"/>
+
+<p align="center">
+<img
+  scr=""
+  alt="tbc" width="400"/>
 
 
 
