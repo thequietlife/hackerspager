@@ -119,5 +119,11 @@ I got most of the water out but couldn't get the little bumps out.
   src="https://github.com/thequietlife/hackerspager/blob/59777a4716756da12d2d4c003c2203365dc310a4/images/screen%202.jpeg"
 alt="pager screen with bumps" width="400"/>
 
+When I put the pager back together the wording was not fully visible. So I had to redo it again. I used a paper template to test out a smaller size. The lettering has to sit close to the edge of the screen.
+
+<p align="center">
+  <img
+  src="https://github.com/thequietlife/hackerspager/blob/5c5ef2c5aea4cea2c519b111eeef25f8990ab24c/images/screen%20redo.jpeg"
+  alt="paper template on the screen to check the wording" width="400"/>
 
 
