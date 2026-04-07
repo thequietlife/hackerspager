@@ -71,4 +71,8 @@ Working with water slide decal papers is really tricky. Once it has soaked in wa
 
 I thought I was home free but once I assembled the screen back into the case some of the wording was covered. Oof.
 
+I decided to put the decal straight onto the screen. I wanted to avoid having to do more spraypainting.
+
+I gave the screen a clean with Isopropyl alcohol and that got the black sticky muck off really easily.  
+
 
