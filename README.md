@@ -95,13 +95,21 @@ I gave the screen a clean with Isopropyl alcohol and that got the black sticky m
 <p align="center">
 <img
   src="https://github.com/thequietlife/hackerspager/blob/a89c38b3865b099db5d2efeaf5069b87bef8a0b0/images/cleaning%20screen.jpeg"
-    alt="cleaning the screen" width="300"/>
+  alt="cleaning the screen" width="300"/>
+<br>
 I know Isopropyl alcohol is great for cleaning off oily fingerprints but I am really stoked with how easily the sticky much came off.
   
 <p align="center">
 <img
   src="https://github.com/thequietlife/hackerspager/blob/a89c38b3865b099db5d2efeaf5069b87bef8a0b0/images/clean.jpeg"
-alt="clean screen" width="400"/>
+  alt="clean screen" width="400"/>
 
 Now back to the water slide. Ding ding round two.
+
+<p align="center">
+<img
+  scr="https://github.com/thequietlife/hackerspager/blob/25fcd04bcd0e6bb77eabfd3f145d317947a9a60e/images/decal%20on%20screen%201.jpeg"
+  alt="clean screen" width="400"/>
+
+
 
