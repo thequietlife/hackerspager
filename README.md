@@ -113,10 +113,11 @@ The water slide decal has heaps of water underneath. Arggh.
   src="https://github.com/thequietlife/hackerspager/blob/ce408e7a632deaa824855b9b8e6120ad9ed562c5/images/boo.jpeg"
 alt="pager screen with water slide decal. shows a lot of water under the decal." width="400"/>
 
+I got most of the water out but couldn't get the little bumps out.
 <p align="center">
 <img
-  src=""
-alt="before photo of the Motorola pager" width="400"/>
+  src="https://github.com/thequietlife/hackerspager/blob/59777a4716756da12d2d4c003c2203365dc310a4/images/screen%202.jpeg"
+alt="pager screen with bumps" width="400"/>
 
 
 
