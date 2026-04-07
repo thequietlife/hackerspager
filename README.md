@@ -140,6 +140,10 @@ After letting the screen dry I was able to put it all together. I'm pretty happy
 src="https://github.com/thequietlife/hackerspager/blob/9285f2f7c48534eaf878aa7ef110d4306e5a7e50/images/finished%20pager.jpeg"
 alt="finished Hackers movie pager" width="500"/>
 
+### Conclusion
+
+The whole process was pretty interesting, it took about two weeks from start to end. I'm going to avoid spraypainting and water slide decals. But I do like tinkering with something real rather than just on screen.
+
 
 
 
