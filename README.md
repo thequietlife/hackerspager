@@ -111,6 +111,11 @@ The water slide decal has heaps of water underneath. Arggh.
 <p align="center">
 <img
   src="https://github.com/thequietlife/hackerspager/blob/ce408e7a632deaa824855b9b8e6120ad9ed562c5/images/boo.jpeg"
+alt="pager screen with water slide decal. shows a lot of water under the decal." width="400"/>
+
+<p align="center">
+<img
+  src=""
 alt="before photo of the Motorola pager" width="400"/>
 
 
