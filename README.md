@@ -22,6 +22,7 @@ alt="before photo of the Motorola pager" width="400"/>
 
 Finding pagers nowadays is hard. I found this one on ebay. <br>
 
+Famicoman and HackersCurator both cover disassembly and prepping the pager for painting really well.
 I haven't done any spraypainting before and I found this the hardest bit. Trying to get a light, even coat. I couldn't get nice straight lines around the Motorola label.
 
 <p align="center">
@@ -66,6 +67,8 @@ It took a few goes to get the sizing right. Next trying out Water Slide Decal Pa
 src="https://github.com/thequietlife/hackerspager/blob/ce48bd9141d8ede0a754368d4d9f2595492bd77d/images/print%205.jpeg"
 alt="new screen" width="400"/>
 
-Working 
+Working with water slide decal papers is really tricky. Once it has soaked in water for a bit it creases really easily. I made the mistake of using a microfibre cloth to blot out the decal paper. This left an imprint of the microfibre on the decal. So I had to soak the decal again and gently try to ease out the water from underneath and get rid of the folds. Then once it had tried one of the letters dried crooked so I had to try to soak it again.
+
+I thought I was home free but once I assembled the screen back into the case some of the wording was covered. Oof.
 
 
