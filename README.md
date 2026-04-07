@@ -104,9 +104,10 @@ I know Isopropyl alcohol is great for cleaning off oily fingerprints but I am re
   src="https://github.com/thequietlife/hackerspager/blob/a89c38b3865b099db5d2efeaf5069b87bef8a0b0/images/clean.jpeg"
   alt="clean screen" width="400"/>
 
-Now back to the water slide. Ding ding round two.
+Now back to the water slide.
+<br>
 
-
+The water slide decal has heaps of water underneath. Arggh.
 <p align="center">
 <img
   src="https://github.com/thequietlife/hackerspager/blob/ce408e7a632deaa824855b9b8e6120ad9ed562c5/images/boo.jpeg"
