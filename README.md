@@ -108,28 +108,9 @@ Now back to the water slide. Ding ding round two.
 
 <p align="center">
 <img
-  scr=""
+  scr="https://github.com/thequietlife/hackerspager/blob/ce408e7a632deaa824855b9b8e6120ad9ed562c5/images/boo.jpeg"
   alt="tbc" width="400"/>
 
-<p align="center">
-<img
-  scr=""
-  alt="tbc" width="400"/>
-
-<p align="center">
-<img
-  scr=""
-  alt="tbc" width="400"/>
-
-<p align="center">
-<img
-  scr=""
-  alt="tbc" width="400"/>
-
-<p align="center">
-<img
-  scr=""
-  alt="tbc" width="400"/>
 
 
 
