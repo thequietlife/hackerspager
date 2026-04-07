@@ -79,12 +79,28 @@ Once it has soaked in water for a bit it creases really easily. I made the mista
 <p align="center">
 <img
   src="https://github.com/thequietlife/hackerspager/blob/bee87c5dae697dd33341e195239dabb94e6b8dda/images/waterslide%201.jpeg"
-alt="pager with waterslide decal" width="400"/>
+alt="pager with waterslide decal" width="300"/>
   
 I managed to straighten up the lettering but once I assembled the screen back into the case some of the wording was covered. Oof.
 
 I decided to put the decal straight onto the screen. I wanted to avoid having to do more spraypainting.
 
 I gave the screen a clean with Isopropyl alcohol and that got the black sticky muck off really easily.  
+
+<p align="center">
+<img
+  src="https://github.com/thequietlife/hackerspager/blob/a89c38b3865b099db5d2efeaf5069b87bef8a0b0/images/pre%20clean%20screen.jpeg"
+  alt="screen with sticky muck around the edges" width="400"/>
+
+<p align="center">
+<img
+  src="https://github.com/thequietlife/hackerspager/blob/a89c38b3865b099db5d2efeaf5069b87bef8a0b0/images/cleaning%20screen.jpeg"
+    alt="cleaning the screen" width="300"/>
+
+<p align="center">
+<img
+  src="https://github.com/thequietlife/hackerspager/blob/a89c38b3865b099db5d2efeaf5069b87bef8a0b0/images/clean.jpeg"
+alt="clean screen" width="400"/>
+
 
 
