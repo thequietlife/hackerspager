@@ -67,7 +67,21 @@ It took a few goes to get the sizing right. Next trying out Water Slide Decal Pa
 src="https://github.com/thequietlife/hackerspager/blob/ce48bd9141d8ede0a754368d4d9f2595492bd77d/images/print%205.jpeg"
 alt="new screen" width="400"/>
 
-Working with water slide decal papers is really tricky. Once it has soaked in water for a bit it creases really easily. I made the mistake of using a microfibre cloth to blot out the decal paper. This left an imprint of the microfibre on the decal. So I had to soak the decal again and gently try to ease out the water from underneath and get rid of the folds. Then once it had tried one of the letters dried crooked so I had to try to soak it again. I managed to straighten up the lettering but once I assembled the screen back into the case some of the wording was covered. Oof.
+Working with water slide decal papers is really tricky. 
+
+<p align="center">
+<img
+  src="https://github.com/thequietlife/hackerspager/blob/bee87c5dae697dd33341e195239dabb94e6b8dda/images/waterslide%20wip.jpeg"
+  alt="water slide decal soaking in water" width="400"/>
+
+Once it has soaked in water for a bit it creases really easily. I made the mistake of using a microfibre cloth to blot out the decal paper. This left an imprint of the microfibre on the decal. So I had to soak the decal again and gently try to ease out the water from underneath and get rid of the folds. Then once it had tried one of the letters dried crooked so I had to try to soak it again. 
+
+<p align="center">
+<img
+  src="https://github.com/thequietlife/hackerspager/blob/bee87c5dae697dd33341e195239dabb94e6b8dda/images/waterslide%201.jpeg"
+alt="pager with waterslide decal" width="400"/>
+  
+I managed to straighten up the lettering but once I assembled the screen back into the case some of the wording was covered. Oof.
 
 I decided to put the decal straight onto the screen. I wanted to avoid having to do more spraypainting.
 
