@@ -35,7 +35,7 @@ I ended up redoing the spraypaint.
 <p align="center">
 <img
 src="https://github.com/thequietlife/hackerspager/blob/6eb47e0839faccc0bee5457420b852181d55c688/images/re%20do%20yellow.jpeg"
-alt="spraypainting the pager a second time" width="400"/>
+alt="spraypainting the pager a second time" width="300"/>
 
 ### After
 
