@@ -1,5 +1,6 @@
 ## Notes on making Cereal Killer's fluro pager 
 
+![tinkering](https://img.shields.io/badge/focus-tinkering-blue)
 
 Making Cereal Killer's fluro pager in the 1995 movie [Hackers](https://en.wikipedia.org/wiki/Hackers_film) was the goal. There is something super appealing about retro tech. And being able to tinker to make my own version was another key driver. 
 
